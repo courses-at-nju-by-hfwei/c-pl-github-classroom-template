@@ -1,4 +1,4 @@
-# 1-types-io
+# c-pl-github-classroom-template
 
 Programming Exercises on ....
 
@@ -11,7 +11,7 @@ Programming Exercises on ....
 
 ## 如何做作业
 
-- 参考作业 `hello-c` 中的 `README.md`
+- 参考作业 `hello-c` 中的 [`README.md`](https://github.com/courses-at-nju-by-hfwei/hello-c)
 
 ---
 
